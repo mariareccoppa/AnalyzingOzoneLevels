@@ -1,4 +1,4 @@
-# AnalyzingOzoneLevels
+# Analyzing Ozone Levels in New York
 This project involves an analysis of ozone levels in New York for the year 1973 using R. The aim is to handle missing data and understand the distribution of ozone levels throughout the months.
 
 ## Project Overview
